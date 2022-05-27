@@ -1,0 +1,18 @@
+.App{
+    position: relative;
+
+    .top-row {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+        input {
+            border: 1px solid black;
+            border-radius: 20px;
+            width: 300px;
+            height: 30px;
+            padding: 0 12px;
+        }
+    }
+}
+    
