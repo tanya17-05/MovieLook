@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/95133237/170861665-f0c120a2-7ac9-4f88-
 # Getting Started with this project
 
 run `npm i` to install all necessary packages and dependencies.
-Make sure you have [nodeJs](https://nodejs.org/) installed on your computer.
+Make sure you have [NodeJs](https://nodejs.org/) installed on your computer.
 
 ## Available Scripts
 
